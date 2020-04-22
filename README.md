@@ -2,7 +2,7 @@
 <a href="#features">Features</a> &mdash; <a href="#use">How To Use</a> &mdash; <a href="#papers">Related Papers</a> &mdash; <a href="#missing">Missing Features</a> &mdash; <a href="#copyrights">Copyrights</a>
 </p>
 <p align="center">
-<img width="300" height="300" alt="Robin Baumgarten A* agent" src="https://raw.githubusercontent.com/amidos2006/Mario-AI-Framework/master/img/frameworkAD.gif">
+<img width="300" height="300" alt="Robin Baumgarten A* agent" src="https://github.com/SebastianEsp/RollingMario/blob/master/img/Mario.gif">
 </p>
 <p align="center">
   <b>Current Framework Version: 0.8.0</b>
