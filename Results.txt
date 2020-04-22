@@ -1,0 +1,16 @@
+RUN: 1
+GAME STATE: WIN
+PERCENTAGE COMPLETION: 1.0
+TIME REMAINING: 9770
+COINS: 1
+STOMPS: 3
+JUMPS: 20
+---------------------------------------------------------------------
+RUN: 2
+GAME STATE: WIN
+PERCENTAGE COMPLETION: 1.0
+TIME REMAINING: 9290
+COINS: 1
+STOMPS: 3
+JUMPS: 21
+---------------------------------------------------------------------
