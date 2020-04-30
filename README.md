@@ -1,5 +1,5 @@
 <p align="center">
-<img width="300" height="300" alt="Robin Baumgarten A* agent" src="https://github.com/SebastianEsp/RollingMario/blob/master/img/Mario.gif">
+<img width="300" height="300" alt="Rolling Horizon Mario" src="https://github.com/SebastianEsp/RollingMario/blob/master/img/Mario.gif">
 </p>
 
 Implementation of the Rolling Horizon Evolutionary Algorithm (RHEA) for the automatic playing of Super Mario levels. 
