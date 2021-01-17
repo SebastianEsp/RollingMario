@@ -5,7 +5,7 @@
 Implementation of the Rolling Horizon Evolutionary Algorithm (RHEA) for the automatic playing of Super Mario levels. 
 This project uses the [Mario AI framework](https://github.com/amidos2006/Mario-AI-Framework) which is commonly used as the framework for implementing AI's that play Super Mario Bros.
 
-Rolling Horizon is a statistical forward planning algorithm in the same family as the more popular Monte Carlo Tree Search (MCTS). This project was done as part of a course on artifical intelligence in video games.
+Rolling Horizon is a statistical forward planning algorithm in the same family as the popular Monte Carlo Tree Search (MCTS). This project was done as part of a course on artifical intelligence in video games.
 The implemeted algorithm is capable of succesfully playing a wide variety of Super Mario levels in real time.
 
 ------
