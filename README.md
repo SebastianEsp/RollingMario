@@ -11,4 +11,4 @@ The implemeted algorithm is capable of succesfully playing a wide variety of Sup
 ------
 #### How to use
 To run the algorithm open the PlayLevel file and execute.
-Additonal information about the framework can be found on the Mario AI framework [github] (https://github.com/amidos2006/Mario-AI-Framework)
+Additonal information about the framework can be found on the Mario AI framework [github](https://github.com/amidos2006/Mario-AI-Framework)
